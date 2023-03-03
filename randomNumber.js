@@ -9,4 +9,4 @@ function blingers() { if (auto.indexOf(1) == -1) {
     console.log(`fim`)
 }
 }
-blingers(
+blingers()
